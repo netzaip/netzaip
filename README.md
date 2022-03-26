@@ -26,7 +26,7 @@ Can we work together? 	:relaxed:
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 </div>
 
-
+<h3><em>Adendo: estou alimentando o Github com os projetos já desenvolvidos, estará disponível em breve.</em></h3>
 
 <!--
 **netzaip/netzaip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
